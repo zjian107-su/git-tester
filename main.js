@@ -4,3 +4,5 @@ console.log("from daniel00");
 console.log("from daniel01");
 console.log("from daniel01-01");
 console.log("merge");
+
+console.log("it will lead to conflict");
